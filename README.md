@@ -10,7 +10,7 @@
 <!-- - 🌱 I’m currently learning Typescript and Node.js -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Vaibhav2399?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-parihar/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1cLTAlxPL5bPAbH-3VrAQjnK_F7Ze1QgL/view)
+- 📝 &nbsp; Checkout my [resume](https://www.dropbox.com/scl/fi/haxrgmnzuc568ihzdvj2u/VP_Resume_Java.pdf?rlkey=fmuqf34xxcsdp14buuihh45x9&dl=0)
 <!-- - 😄 &nbsp; Vist my portfolio: [portfolio](https://priyang-patel.web.app/) -->
 
 ### 🔨 Languages and Tools:
@@ -30,7 +30,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Vaibhav2399/Vaibhav2399">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2399&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2399&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Vaibhav2399/Vaibhav2399">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Vaibhav2399&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaibhav's GitHub Stats" />
