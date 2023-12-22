@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Vaibhav2399?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vaibhav-parihar/)
-- 📝 &nbsp; Checkout my [resume](https://www.dropbox.com/scl/fi/haxrgmnzuc568ihzdvj2u/VP_Resume_Java.pdf?rlkey=fmuqf34xxcsdp14buuihh45x9&dl=0)
+- 📝 &nbsp; Checkout my <a href="https://www.dropbox.com/scl/fi/haxrgmnzuc568ihzdvj2u/VP_Resume_Java.pdf?rlkey=fmuqf34xxcsdp14buuihh45x9&dl=0" target="_blank"> resume </a>
 <!-- - 😄 &nbsp; Vist my portfolio: [portfolio](https://priyang-patel.web.app/) -->
 
 ### 🔨 Languages and Tools:
