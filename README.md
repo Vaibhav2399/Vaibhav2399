@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Vaibhav Parihar!
-<a href='https://www.linkedin.com/in/vaibhav-parihar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-linkedin.svg" height='26px'/></a>
-<a href='https://twitter.com/Vaibhav__P'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-twitter.svg" height='26px'/></a>
+<a href='https://www.linkedin.com/in/vaibhav-parihar/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-linkedin.svg" height='26px'/></a>
+<a href='https://twitter.com/Vaibhav__P' target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-twitter.svg" height='26px'/></a>
 
 <br>
 <img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="200px"/>
@@ -28,9 +28,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Vaibhav2399/Vaibhav2399">
+<a href="https://github.com/Vaibhav2399/Vaibhav2399" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2399&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/Vaibhav2399/Vaibhav2399">
+<a href="https://github.com/Vaibhav2399/Vaibhav2399" target="_blank">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Vaibhav2399&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaibhav's GitHub Stats" />
 
