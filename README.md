@@ -1,10 +1,9 @@
 ## Hey 👋, I'm Vaibhav Parihar!
 <a href='https://www.linkedin.com/in/vaibhav-parihar/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-linkedin.svg" height='26px'/></a>
-<a href='https://twitter.com/012Priyang'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-twitter.svg" height='26px'/></a>
-<a href='https://in.pinterest.com/priyangspatel12345/_created/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-pinterest (1).svg" height='26px'/></a>
+<a href='https://twitter.com/Vaibhav__P'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/Vaibhav2399/Vaibhav2399/main/icons8-twitter.svg" height='26px'/></a>
 
 <br>
-<img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="200px"/>
+<!-- <img align="right" alt="profile" src="https://priyang-patel.web.app/assets/Images/Priyang@4x.png" width="200px"/> -->
 
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning Typescript and Node.js -->
