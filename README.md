@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software Developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently pursuing a Master's degree **from Concordia University**
+- 🔭 Currently working as a **Software Engineer** at **Circuit Design Corporation**
 
-- 🌱 Currently learning **DevOps**
+- 🌱 Did my master's in Computer Science from **Concordia University**
 
-- 💬 Good with **Java, CPP, DSA, Spring, JS, Web Development**
+- 💬 Hands-on experience with **CPP, Vue.js, Nodejs, Expressjs, AngularJS, Java, DSA, Spring, Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
