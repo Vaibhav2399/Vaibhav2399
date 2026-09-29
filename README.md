@@ -1,12 +1,24 @@
 <h1 align="center">Vaibhav Parihar</h1>
-<h3 align="center">A passionate Software Developer from Canada</h3>
+<h3 align="center">Software Engineer · Montréal, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently working as a **Software Engineer** at **Circuit Design Corporation**
+- 🔭 Currently a **Software Engineer (SWE III)** at **Morgan Stanley**, building the **Integrated Client Intelligence (ICI)** platform for the Investment Banking & Global Capital Markets department, with **Spring Boot** and **Angular**
 
-- 🌱 Did my master's in Computer Science from **Concordia University**
+- 💼 Previously at **Circuit Design Corp.** (C++), **Concordia University** (full-stack, LexiConcordia), and **Analog Devices** (Oracle, Spring MVC, React)
 
-- 💬 Hands-on experience with **CPP, Vue.js, Nodejs, Expressjs, AngularJS, Java, DSA, Spring, Web Development**
+- 🎓 Master's in **Applied Computer Science** from **Concordia University**; co-organizer of **@HackCTF'24**, Concordia's first national cybersecurity hackathon
+
+- 💬 Most at home in **Java, Spring, Angular, SQL, Node.js, React, C++**, with a soft spot for data structures and algorithms
+
+- 📜 Oracle Certified: **OCJP** and **OCWCD**
+
+- 🌍 English · Français
+
+<h3 align="left">Selected projects:</h3>
+
+- [**LexiConcordia**](https://github.com/Vaibhav2399/LexiConcordia) and [**Lexic_DB**](https://github.com/Vaibhav2399/Lexic_DB): full-stack terminology platform built at Concordia University
+- [**OpenTracks**](https://github.com/Vaibhav2399/OpenTracks-Winter-SOEN-6431_2024) and [**OSMDashboard**](https://github.com/Vaibhav2399/OSMDashboard-Winter-2024-SOEN-6431): privacy-respecting sport tracking and its OpenStreetMap dashboard (Java)
+- [**Satellite Image Classification**](https://github.com/Vaibhav2399/Satellite-Image-Classification-using-CNN): CNN-based image classification
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
